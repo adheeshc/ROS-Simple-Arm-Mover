@@ -15,7 +15,7 @@ $ cd ..
 #### Clone the package in catkin_ws/src/
 ```sh
 $ cd /home/workspace/catkin_ws/src/
-$ git clone https://github.com/udacity/RoboND-simple_arm.git simple_arm
+$ git clone https://github.com/adheeshc/ROS-Simple-Arm-Mover
 ```
 
 #### Build the `simple_arm` package
@@ -60,6 +60,6 @@ $ rosrun image_view image_view image:=/rgb_camera/image_raw
 ```
 
 ## Simulation Interface:
-![alt text](images/simulation.png)
+![alt text](images/simulation.gif)
 
 
