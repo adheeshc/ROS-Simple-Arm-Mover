@@ -60,6 +60,6 @@ $ rosrun image_view image_view image:=/rgb_camera/image_raw
 ```
 
 ## Simulation Interface:
-![alt text](images/simulation.png)
+![alt text](images/simulation.gif)
 
 
